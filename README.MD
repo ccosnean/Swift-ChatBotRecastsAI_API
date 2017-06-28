@@ -7,7 +7,8 @@ Also i am usig Speech framework, to make the speech recognition, and text readin
 	  RecastAI
 	  JSQMessagesViewController
 	  ForecastIO
-	\* check the Podfile for details
+	  
+	  * check the Podfile for details
 	
 	Execute in xCode
 	CMD + R
